@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/Luxoria-EIP/auto-release/compare/v1.0.0...v1.1.0) (2024-11-18)
+
+
+### Bug Fixes
+
+* Fix Main3 project ([91a765f](https://github.com/Luxoria-EIP/auto-release/commit/91a765fa1eb644c64f9dd3431491f99dbe149a39))
+
+
+### Features
+
+* Add Main3 ([a5eb4e7](https://github.com/Luxoria-EIP/auto-release/commit/a5eb4e7b6ac436e5771c46563ca0c940ae3b2d1e))
+
 # 1.0.0 (2024-11-18)
 
 
