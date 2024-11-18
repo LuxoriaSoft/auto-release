@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Luxoria-EIP/auto-release/compare/v1.0.2...v1.1.0) (2024-11-18)
+
+
+### Features
+
+* Add additional comments to main3.c for clarity ([0cdf121](https://github.com/Luxoria-EIP/auto-release/commit/0cdf121a0d0ee638e3e88782200bd3554c99cf5d))
+
 ## [1.0.2](https://github.com/Luxoria-EIP/auto-release/compare/v1.0.1...v1.0.2) (2024-11-18)
 
 
