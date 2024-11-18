@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.0...v1.2.1) (2024-11-18)
+
+
+### Bug Fixes
+
+* CI/CD workflow ([9ea15ba](https://github.com/Luxoria-EIP/auto-release/commit/9ea15ba4839504ec4af01e19a3d83969381027d3))
+* Install 'semantic-release/exec' package ([caead49](https://github.com/Luxoria-EIP/auto-release/commit/caead49abde5ca8588fb15233cca99b22c9f8470))
+* remove installed 'semantic-release/exec' package ([ae9a1b0](https://github.com/Luxoria-EIP/auto-release/commit/ae9a1b0c3facb0e7d4fcf92c42d6dc8ec444d876))
+
 # [1.2.0](https://github.com/Luxoria-EIP/auto-release/compare/v1.1.0...v1.2.0) (2024-11-18)
 
 
