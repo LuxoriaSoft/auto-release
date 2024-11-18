@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/Luxoria-EIP/auto-release/compare/v1.0.0...v1.0.1) (2024-11-18)
+
+
+### Bug Fixes
+
+* Add initial comment to main2.c for clarity ([279868d](https://github.com/Luxoria-EIP/auto-release/commit/279868d8f6f4fe8ffcd15a3176f610b95073912c))
+* Add second comment to main2.c for additional context ([bb8f0e1](https://github.com/Luxoria-EIP/auto-release/commit/bb8f0e172aa6f201df8b459b8541a2edca4e4448))
+
 # 1.0.0 (2024-11-18)
 
 
