@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Luxoria-EIP/auto-release/compare/v1.1.0...v1.1.1) (2024-11-18)
+
+
+### Bug Fixes
+
+* Merge from 'main' branch' ([cbdd4b3](https://github.com/Luxoria-EIP/auto-release/commit/cbdd4b3f615b81b481a774db5a33e1d5782d5ef0))
+
 # [1.1.0](https://github.com/Luxoria-EIP/auto-release/compare/v1.0.2...v1.1.0) (2024-11-18)
 
 
