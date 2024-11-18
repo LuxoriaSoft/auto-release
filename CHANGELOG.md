@@ -1,51 +1,31 @@
-## [1.2.4](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.3...v1.2.4) (2024-11-18)
+## [1.1.1](https://github.com/Luxoria-EIP/auto-release/compare/v1.1.0...v1.1.1) (2024-11-18)
 
 
 ### Bug Fixes
 
-* Update release configuration to include alpha and beta branches with appropriate prerelease settings ([cbf115b](https://github.com/Luxoria-EIP/auto-release/commit/cbf115b3dcb3d2e2a24f721b74d84cc01a870655))
+* Merge from 'main' branch' ([cbdd4b3](https://github.com/Luxoria-EIP/auto-release/commit/cbdd4b3f615b81b481a774db5a33e1d5782d5ef0))
 
-## [1.2.3](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.2...v1.2.3) (2024-11-18)
-
-
-### Bug Fixes
-
-* Add prerelease version for 'main' branch ([5e29b45](https://github.com/Luxoria-EIP/auto-release/commit/5e29b45f8e929982ff66c50a5bf8ca6878fa052c))
-
-## [1.2.2](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.1...v1.2.2) (2024-11-18)
-
-
-### Bug Fixes
-
-* Add Alpha/Beta version before final version ([454c6a5](https://github.com/Luxoria-EIP/auto-release/commit/454c6a5159780b53cd0a7523c45b95123962b34c))
-
-## [1.2.1](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.0...v1.2.1) (2024-11-18)
-
-
-### Bug Fixes
-
-* CI/CD workflow ([9ea15ba](https://github.com/Luxoria-EIP/auto-release/commit/9ea15ba4839504ec4af01e19a3d83969381027d3))
-* Install 'semantic-release/exec' package ([caead49](https://github.com/Luxoria-EIP/auto-release/commit/caead49abde5ca8588fb15233cca99b22c9f8470))
-* remove installed 'semantic-release/exec' package ([ae9a1b0](https://github.com/Luxoria-EIP/auto-release/commit/ae9a1b0c3facb0e7d4fcf92c42d6dc8ec444d876))
-
-# [1.2.0](https://github.com/Luxoria-EIP/auto-release/compare/v1.1.0...v1.2.0) (2024-11-18)
+# [1.1.0](https://github.com/Luxoria-EIP/auto-release/compare/v1.0.2...v1.1.0) (2024-11-18)
 
 
 ### Features
 
-* Create branch per release ([fbeb28d](https://github.com/Luxoria-EIP/auto-release/commit/fbeb28d0bcb446f962df0968365e03d16ec774ca))
+* Add additional comments to main3.c for clarity ([0cdf121](https://github.com/Luxoria-EIP/auto-release/commit/0cdf121a0d0ee638e3e88782200bd3554c99cf5d))
 
-# [1.1.0](https://github.com/Luxoria-EIP/auto-release/compare/v1.0.0...v1.1.0) (2024-11-18)
+## [1.0.2](https://github.com/Luxoria-EIP/auto-release/compare/v1.0.1...v1.0.2) (2024-11-18)
 
 
 ### Bug Fixes
 
-* Fix Main3 project ([91a765f](https://github.com/Luxoria-EIP/auto-release/commit/91a765fa1eb644c64f9dd3431491f99dbe149a39))
+* Add additional comments to main3.c for clarity ([dff9b2a](https://github.com/Luxoria-EIP/auto-release/commit/dff9b2afaa9c1cac47509c3653bb654ea654644e))
+
+## [1.0.1](https://github.com/Luxoria-EIP/auto-release/compare/v1.0.0...v1.0.1) (2024-11-18)
 
 
-### Features
+### Bug Fixes
 
-* Add Main3 ([a5eb4e7](https://github.com/Luxoria-EIP/auto-release/commit/a5eb4e7b6ac436e5771c46563ca0c940ae3b2d1e))
+* Add initial comment to main2.c for clarity ([279868d](https://github.com/Luxoria-EIP/auto-release/commit/279868d8f6f4fe8ffcd15a3176f610b95073912c))
+* Add second comment to main2.c for additional context ([bb8f0e1](https://github.com/Luxoria-EIP/auto-release/commit/bb8f0e172aa6f201df8b459b8541a2edca4e4448))
 
 # 1.0.0 (2024-11-18)
 
