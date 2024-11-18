@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Luxoria-EIP/auto-release/compare/v1.1.0...v1.2.0) (2024-11-18)
+
+
+### Features
+
+* Create branch per release ([fbeb28d](https://github.com/Luxoria-EIP/auto-release/commit/fbeb28d0bcb446f962df0968365e03d16ec774ca))
+
 # [1.1.0](https://github.com/Luxoria-EIP/auto-release/compare/v1.0.0...v1.1.0) (2024-11-18)
 
 
