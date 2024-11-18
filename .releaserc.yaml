@@ -22,3 +22,4 @@ branchRules:
     prerelease: false
   - branch: "develop"
     prerelease: true
+    tag: "dev"
