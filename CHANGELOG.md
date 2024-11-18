@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.2...v1.2.3) (2024-11-18)
+
+
+### Bug Fixes
+
+* Add prerelease version for 'main' branch ([5e29b45](https://github.com/Luxoria-EIP/auto-release/commit/5e29b45f8e929982ff66c50a5bf8ca6878fa052c))
+
 ## [1.2.2](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.1...v1.2.2) (2024-11-18)
 
 
