@@ -15,7 +15,13 @@ plugins:
 branches:
   - "+([0-9])?(.{+([0-9]),x}).x"
   - main
+  - alpha
+  - beta
 
 branchRules:
   - branch: "main"
+    prerelease: false
+  - branch: "alpha"
+    prerelease: true
+  - branch: "beta"
     prerelease: true
