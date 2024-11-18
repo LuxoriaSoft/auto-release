@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.3...v1.2.4) (2024-11-18)
+
+
+### Bug Fixes
+
+* Update release configuration to include alpha and beta branches with appropriate prerelease settings ([cbf115b](https://github.com/Luxoria-EIP/auto-release/commit/cbf115b3dcb3d2e2a24f721b74d84cc01a870655))
+
 ## [1.2.3](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.2...v1.2.3) (2024-11-18)
 
 
