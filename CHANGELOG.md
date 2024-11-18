@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.1...v1.2.2) (2024-11-18)
+
+
+### Bug Fixes
+
+* Add Alpha/Beta version before final version ([454c6a5](https://github.com/Luxoria-EIP/auto-release/commit/454c6a5159780b53cd0a7523c45b95123962b34c))
+
 ## [1.2.1](https://github.com/Luxoria-EIP/auto-release/compare/v1.2.0...v1.2.1) (2024-11-18)
 
 
